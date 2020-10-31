@@ -22,7 +22,7 @@ to use Colab, click the `Open in Colab` badge below.
 
 <div>
   <a href="https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb" target="_blank">
-    <img class="colab-badge" src="/assets/badges/colab-open.svg" alt="Colab Notebook"/>
+    <img class="colab-badge" src="/CS231n/assets/badges/colab-open.svg" alt="Colab Notebook"/>
   </a>
 </div>
 
@@ -38,7 +38,7 @@ see a screen like this, showing all available notebooks in the current
 directory:
 
 <div class='fig figcenter'>
-  <img src='/assets/ipython-tutorial/file-browser.png'>
+  <img src='/CS231n/assets/ipython-tutorial/file-browser.png'>
 </div>
 
 Click `jupyter-notebook-tutorial.ipynb` and follow the instructions in the notebook. Enjoy!
@@ -46,7 +46,7 @@ Click `jupyter-notebook-tutorial.ipynb` and follow the instructions in the noteb
 <!-- If you click through to a notebook file, you will see a screen like this: -->
 
 <!-- <div class='fig figcenter'>
-  <img src='/assets/ipython-tutorial/notebook-1.png'>
+  <img src='/CS231n/assets/ipython-tutorial/notebook-1.png'>
 </div>
 
 A Jupyter notebook is made up of a number of **cells**. Each cell can contain
@@ -57,14 +57,14 @@ will be displayed beneath the cell. For example, after running the first cell,
 the notebook shoud look like this:
 
 <div class='fig figcenter'>
-  <img src='/assets/ipython-tutorial/notebook-2.png'>
+  <img src='/CS231n/assets/ipython-tutorial/notebook-2.png'>
 </div>
 
 Global variables are shared between cells. Executing the second cell thus gives
 the following result:
 
 <div class='fig figcenter'>
-  <img src='/assets/ipython-tutorial/notebook-3.png'>
+  <img src='/CS231n/assets/ipython-tutorial/notebook-3.png'>
 </div>
 
 There are a few keyboard shortcuts you should be aware of to make your notebook
@@ -75,7 +75,7 @@ To place a cell above the current one, press `a`. Finally, to delete a cell, pre
 You can restart a notebook and clear all cells by clicking `Kernel -> Restart & Clear Output`.
 
 <div class='fig figcenter'>
-  <img src='/assets/ipython-tutorial/notebook-restart.png'>
+  <img src='/CS231n/assets/ipython-tutorial/notebook-restart.png'>
 </div>
 
 By convention, Jupyter notebooks are expected to be run from top to bottom.
@@ -83,14 +83,14 @@ Failing to execute some cells or executing cells out of order can result in
 errors. After restarting the notebook, try running the second cell directly:
 
 <div class='fig figcenter'>
-  <img src='/assets/ipython-tutorial/notebook-error.png'>
+  <img src='/CS231n/assets/ipython-tutorial/notebook-error.png'>
 </div>
 
 After you have modified a Jupyter notebook for one of the assignments by
 modifying or executing some of its cells, remember to **save your changes!**
 
 <div class='fig figcenter'>
-  <img src='/assets/ipython-tutorial/save-notebook.png'>
+  <img src='/CS231n/assets/ipython-tutorial/save-notebook.png'>
 </div>
 
 This has only been a brief introduction to Jupyter notebooks, but it should

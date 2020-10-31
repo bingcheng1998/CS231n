@@ -8,6 +8,8 @@ courseurl: "http://cs231n.stanford.edu/"
 twitter_username: cs231n
 github_username: cs231n
 
+exclude: ["Readme.md"]
+
 # Build settings
 markdown: kramdown
 permalink: pretty
