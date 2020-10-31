@@ -109,7 +109,7 @@ The first quantity that is useful to track during training is the loss, as it is
 
 <div class="fig figcenter fighighlight">
   <img src="./assets/nn3/learningrates.jpeg" width="49%">
-  <img src="/assets/nn3/loss.jpeg" width="49%">
+  <img src="/CS231n/assets/nn3/loss.jpeg" width="49%">
   <div class="figcaption">
     <b>Left:</b> A cartoon depicting the effects of different learning rates. With low learning rates the improvements will be linear. With high learning rates they will start to look more exponential. Higher learning rates will decay the loss faster, but they get stuck at worse values of loss (green line). This is because there is too much "energy" in the optimization and the parameters are bouncing around chaotically, unable to settle in a nice spot in the optimization landscape. <b>Right:</b> An example of a typical loss function over time, while training a small network on CIFAR-10 dataset. This loss function looks reasonable (it might indicate a slightly too small learning rate based on its speed of decay, but it's hard to say), and also indicates that the batch size might be a little too low (since the cost is a little too noisy).
   </div>
