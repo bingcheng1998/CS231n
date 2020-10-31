@@ -24,6 +24,7 @@ following.
   <img src='/assets/aws-signup.png'>
 </div>
 
+
 Select the "I am a new user" checkbox, click the "Sign in using our secure
 server" button, and follow the subsequent pages to provide the required details.
 They will ask for a credit card information, and also a phone verification, so
